@@ -3,7 +3,7 @@
 ENOLC is a command‑line tool that generates homoglyph (look‑alike) variants for a given domain name, helping you analyze potential spoofed domains for phishing and brand impersonation.
 
 <p align="center">
-  <img src="assets/enolc-banner.png" alt="ENOLC banner" width="600">
+  <img src="enolc-CLI.jpg" alt="ENOLC banner" width="600">
 </p>
 
 
