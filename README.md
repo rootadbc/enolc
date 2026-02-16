@@ -1,6 +1,21 @@
 # ENOLC – Domain Homoglyph Finder
 
 ENOLC is a command‑line tool that generates homoglyph (look‑alike) variants for a given domain name, helping you analyze potential spoofed domains for phishing and brand impersonation.
+                    __          
+                     (_ )        
+   __    ___     _    | |    ___ 
+ /'__`\/' _ `\ /'_`\  | |  /'___)
+(  ___/| ( ) |( (_) ) | | ( (___ 
+`\____)(_) (_)`\___/'(___)`\____)
+
+ [ ENOLC ]
+
+ Author   : rootadbc
+ LinkedIn : linkedin.com/in/rootadbc
+----------------------------------------------------
+ Disclaimer: For educational and research purposes only.
+----------------------------------------------------
+
 
 ## Features
 
